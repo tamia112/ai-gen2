@@ -1,0 +1,11 @@
+
+streamlit>=1.25.0
+pandas
+numpy
+langchain>=0.1.0
+chromadb
+sentence-transformers
+scikit-learn
+python-dotenv
+tiktoken
+openai
