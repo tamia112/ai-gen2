@@ -3,6 +3,8 @@
 Turn a rough idea into scroll-stopping LinkedIn posts in seconds. Runs free on Groq or Ollama, or on Claude for top quality.
 
 Built with **Python**, **Streamlit**, and the **Groq / Anthropic / Ollama** APIs.
+## Deployment URL
+https://ai-gen2-7amunrmypyfruin3bu8aov.streamlit.app/
 
 ## Features
 
