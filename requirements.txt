@@ -1,11 +1,5 @@
-
-streamlit>=1.25.0
+streamlit>=1.36
+anthropic>=0.40
+requests
 pandas
-numpy
-langchain>=0.1.0
-chromadb
-sentence-transformers
-scikit-learn
 python-dotenv
-tiktoken
-openai
